@@ -1,0 +1,21 @@
+{
+  "name": "conatact manager",
+  "version": "1.0.0",
+  "description": "creating a contact manger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amit payal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "dns-notfound-what": "^1.1.0",
+    "emailjs": "^1.0.8",
+    "express": "^4.14.0",
+    "fbgraph": "^1.3.0",
+    "jsonwebtoken": "^7.1.9",
+    "mongoose": "^4.6.7",
+    "morgan": "^1.7.0"
+  }
+}
